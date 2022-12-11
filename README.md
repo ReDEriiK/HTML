@@ -1,5 +1,5 @@
-# HTMLA 
-Fjord Patrol egy norvég hajózási vállalat, amely a hajós utakat 
+# Fjord Patrol
+A Fjord Patrol egy norvég hajózási vállalat, amely a hajós utakat 
 szervez az országonn belül és kívül is.
 Oldalukon egy rövid leírást lehet elolvasni az utakról, a vállalatról 
 és táblázatban lehet tájékozódni az utakról. 
